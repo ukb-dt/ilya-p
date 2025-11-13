@@ -1,4 +1,4 @@
-# A
+# [A](https://ukb-dt.github.io/ilya-usps/)
 Exactly—beautifully phrased.
 
 If we read **Sapolsky’s determinism** (“we are determined, not choosing”) through a **Prigoginian lens**, the tension dissolves into something subtler: we are **determined, not intended**.
